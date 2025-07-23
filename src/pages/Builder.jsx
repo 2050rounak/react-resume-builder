@@ -3,7 +3,7 @@ import ResumePreview from "../components/ResumePreview";
 
 export default function Builder() {
   const initialData = {
-    name: "Spary Coder",
+    name: "Good name",
     title: "Full Stack Developer",
     email: "test@example.com",
     phone: "1234567890",
